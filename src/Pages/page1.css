@@ -29,7 +29,7 @@ div {
   padding: 10px;
   font-size: 20px;
   background: rgb(41,230,215);
-  background: linear-gradient(90deg, rgba(41,230,215,1) 12%, rgba(20,179,244,1) 61%, rgba(108,115,242,1) 91%);
+  background: linear-gradient(45deg, rgba(251,182,206,100) 12%, rgba(193,203,245,100) 61%, rgba(160,187,237,100) 91%);
 }
 
 .center {
