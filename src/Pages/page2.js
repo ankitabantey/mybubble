@@ -3,7 +3,7 @@ import React from "react";
 import { Button } from 'react-bootstrap';
 import history from './history';
 import ReactDOM from 'react-dom';
-import Demo from './components/demo';
+import Demo from './demo';
 /* Page 2 */
 
 
